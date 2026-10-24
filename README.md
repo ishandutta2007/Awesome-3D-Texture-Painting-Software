@@ -1,58 +1,54 @@
-# Awesome-3D-Texture-Painting-Software
+# Awesome 3D Texture Painting Software 🎨🖌️
 
-## Top 3D Texture Painting Software Ecosystem
+<p align="center">
+  <img src="assets/banner.svg" alt="Awesome 3D Texture Painting Software Banner" width="100%" />
+</p>
 
+<p align="center">
+  <a href="https://github.com/ishandutta2007/Awesome-Awesome-Awesome"><img src="https://img.shields.io/badge/Awesome-%E2%9C%94-blueviolet?style=flat-square&logo=github" alt="Awesome"/></a>
+  <a href="https://discord.gg/jc4xtF58Ve"><img src="https://img.shields.io/badge/Discord-5865F2?style=for-the-badge&logo=discord&logoColor=white" alt="Discord" /></a>
+  <a href="https://github.com/ishandutta2007/Awesome-3D-Texture-Painting-Software/stargazers"><img src="https://img.shields.io/github/stars/ishandutta2007/Awesome-3D-Texture-Painting-Software?style=social" alt="GitHub Stars" /></a>
+  <a href="https://github.com/ishandutta2007/Awesome-3D-Texture-Painting-Software/network/members"><img src="https://img.shields.io/github/forks/ishandutta2007/Awesome-3D-Texture-Painting-Software?style=social" alt="GitHub Forks" /></a>
+  <a href="https://github.com/ishandutta2007/Awesome-3D-Texture-Painting-Software/issues"><img src="https://img.shields.io/github/issues/ishandutta2007/Awesome-3D-Texture-Painting-Software?style=flat-square&color=blue" alt="GitHub Issues" /></a>
+  <a href="https://github.com/ishandutta2007/Awesome-3D-Texture-Painting-Software/blob/main/LICENSE"><img src="https://img.shields.io/github/license/ishandutta2007/Awesome-3D-Texture-Painting-Software?style=flat-square&color=green" alt="License" /></a>
+  <a href="https://github.com/ishandutta2007"><img alt="GitHub followers" src="https://img.shields.io/github/followers/ishandutta2007?label=Follow" /></a>
+</p>
 
+---
 
-**Curated List of SaaS Products & Open-Source GitHub Projects**  
+## 🌟 Top 3D Texture Painting Software Ecosystem
 
-*Focused on PBR Texture Painting, Layer-Based Workflows & Self-Hosted Texturing Tools*  
+> **Curated directory of industry-leading SaaS platforms and open-source GitHub projects for 3D texture painting, Physically Based Rendering (PBR) workflows, procedural surface authoring, and mesh UV texturing.** 🚀
 
-**Last updated: October 2026**
+**Last updated: October 2026** 📅
 
+This repository tracks notable **SaaS platforms** and **open-source repositories** for **3D Texture Painting Software**. These tools enable 3D artists, technical directors, and game developers to paint directly onto 3D polygon meshes—authoring base color (albedo), roughness, metallic, normal, ambient occlusion (AO), and displacement/height maps through layer stacks, smart masks, procedural node graphs, and GPU baking pipelines for AAA games, cinematic VFX, VR/AR, and industrial product visualization.
 
+**Category Leaders**: Adobe Substance 3D Painter, Foundry Mari, 3D-Coat, Blender, and ArmorPaint.
 
-This repository tracks notable **SaaS platforms** and **open-source projects** for **3D Texture Painting Software**. These tools enable artists to paint directly onto 3D models—applying base color, roughness, metallic, normal, and height maps through layer stacks, masks, and procedural generators—preparing assets for games, film, and product visualization.
+---
 
+## 📑 Table of Contents
 
+- [📊 Sector Overview & Market Dynamics](#-sector-overview--market-dynamics)
+- [💼 SaaS & Commercial Hosted Platforms](#-saas--commercial-hosted-platforms)
+- [🔓 Open-Source GitHub Projects](#-open-source-github-projects)
+- [🤝 How to Contribute](#-how-to-contribute)
+- [💖 Support & Sponsorship](#-support--sponsorship)
+- [📈 Star History](#-star-history)
+- [⚠️ Disclaimer](#️-disclaimer)
 
-**Examples** include Adobe Substance 3D Painter, Mari, 3D-Coat, ArmorPaint, and Material Maker (the category leaders).
+---
 
+## 📊 Sector Overview & Market Dynamics
 
+The dedicated 3D texture painting and surface authoring software sector is estimated at **$250 million to $500 million** (nested within the broader **$30B+ digital content creation market**, expanding at ~10–12% CAGR driven by gaming, VFX, virtual production, and real-time 3D pipelines). Market dynamics are **highly concentrated and near 'winner-take-all'**, where Adobe (Substance 3D Painter) commands near-ubiquitous industry-standard status for PBR texturing across games and general 3D, complemented by Foundry Mari in high-end VFX film pipelines and Autodesk/Maxon in adjacent sculpting and modeling suites, leaving independent studios to compete on perpetual licensing and niche performance.
 
-**Open-source emphasis**: This section is heavily expanded with every major active project for self-hosting, avoiding subscription fees, and controlling the texturing pipeline. The open-source landscape is anchored by **ArmorPaint** (the PBR painting suite with GPU baking and node-based materials), **Material Maker** (the procedural texture generator and 3D painter built on Godot), and **Blender's Texture Paint mode** (integrated into the complete free 3D suite), with **Dream Textures** providing AI-assisted texture generation within Blender.
+---
 
+## 💼 SaaS & Commercial Hosted Platforms
 
-
-Contributions welcome! Open a PR to add/update entries. Keep descriptions factual and link to official sites.
-
-
-
-## Table of Contents
-
-- [Sector Overview & Market Dynamics](#sector-overview--market-dynamics)
-
-- [SaaS/Hosted Platforms](#saas-hosted-platforms)
-
-- [Open-Source GitHub Projects](#open-source-github-projects)
-
-- [How to Contribute](#how-to-contribute)
-
-- [Disclaimer](#disclaimer)
-
-
-
-## Sector Overview & Market Dynamics
-
-The dedicated 3D texture painting and surface authoring software sector is estimated at **$250 million to $500 million** (nested within the broader **$30B+ digital content creation market**, expanding at ~10–12% CAGR driven by gaming, VFX, and real-time 3D pipelines). Market dynamics are **highly concentrated and near 'winner-take-all'**, where Adobe (Substance 3D Painter) commands near-ubiquitous industry-standard status for PBR texturing across games and general 3D, complemented by Foundry Mari in high-end VFX film pipelines and Autodesk/Maxon in adjacent sculpting and modeling suites, leaving independent studios to compete on perpetual licensing and niche performance.
-
-
-
-## SaaS/Hosted Platforms
-
-
-
-| Product | Company Scale (Valuation / Revenue) | Description | Pricing | Free Tier Limit |
+| 🏷️ Product | 🏢 Company Scale (Valuation / Revenue) | 📝 Description | 💳 Pricing | 🎁 Free Tier Limit |
 | :--- | :--- | :--- | :--- | :--- |
 | **[Adobe Substance 3D Painter](https://www.adobe.com/products/substance3d/apps/painter.html)** | **~$95B – $100B Market Cap** (~$21B+ annual revenue) | Industry-standard PBR texture painting with smart materials, smart masks, and particle brushes. | **US$23.99/mo** (promotional individual plan) or **US$24.99/mo** standalone texturing / **US$119.99/mo** per license for teams; Steam one-time purchase at **$199.99**. | **30-day free trial** with full functionality across desktop apps; no permanent free tier. |
 | **[Mudbox (Autodesk)](https://www.autodesk.com/products/mudbox/)** | **~$50B – $54B Market Cap** (~$5.5B+ annual revenue) | Digital sculpting and texture painting tool for detailed characters. | **$10/month** or **$100/year** (subscription-based). | **30-day free trial** for evaluation only (no commercial use allowed); verified educators/students receive 1-year renewable academic access. |
@@ -60,84 +56,98 @@ The dedicated 3D texture painting and surface authoring software sector is estim
 | **[Mari (Foundry)](https://www.foundry.com/products/mari)** | **~$85M Annual Revenue** (Private equity-backed studio tooling) | High-end texture painting for VFX and film, handling massive texture counts and UDIM workflows. | **$86/month** or **$689/year** for individual subscription; studio enterprise licenses higher. | **Permanent Non-Commercial Free Edition** (strictly non-commercial, export capped at 4K resolution, 16-bit color, and maximum 6 UV tiles/UDIM patches per object). |
 | **[3D-Coat](https://3dcoat.com/)** | **Bootstrapped / Private Studio** (Pilgway, estimated <$10M revenue) | Sculpting, retopology, and texture painting suite with a one-time purchase model. | **€20.80/month** subscription, **€41.60/month** rent-to-own (11 months), or **€379** permanent license. | **30-day free trial** with full features; transitions to permanent **Free Learning Mode** capped at 20 sculpt objects, 10 layers, 512x512 texture exports (or watermarked higher res), and non-commercial use only. |
 
+---
 
+## 🔓 Open-Source GitHub Projects
 
-## Open-Source GitHub Projects
+Curated open-source 3D texturing engines, procedural material generators, and neural texture projection tools, sorted descending by GitHub star popularity:
 
+1. **[Blender](https://github.com/blender/blender)** [![GitHub Stars](https://img.shields.io/github/stars/blender/blender?style=social&color=white)](https://github.com/blender/blender/stargazers) 🎨  
+   **The comprehensive open-source 3D creation suite with native Texture Painting.**  
+   Blender features a complete Texture Paint workspace letting artists paint color, roughness, bump, and normal passes directly onto 3D models with customizable brushes, stencils, symmetry, and projection mapping. Seamlessly integrates with EEVEE/Cycles shaders, UV unwrapping, and geometry node pipelines.  
+   - **Key Features**: Direct 3D mesh brush projection, clone and stencil brushes, layer-friendly shader node tree, zero licensing cost.
 
+2. **[Dream Textures](https://github.com/carson-katri/dream-textures)** [![GitHub Stars](https://img.shields.io/github/stars/carson-katri/dream-textures?style=social&color=white)](https://github.com/carson-katri/dream-textures/stargazers) 🪄  
+   **AI-assisted texture generation add-on for Blender powered by Stable Diffusion.**  
+   Integrates diffusion models directly within Blender's shader editor and 3D viewport. Allows artists to generate seamless tiling PBR maps, project textures with depth-awareness, and inpaint mesh regions using natural language prompts.  
+   - **Key Features**: Text-to-texture, depth-to-image projection, seamless PBR texture synthesis, interactive inpainting.
 
-- **[ArmorPaint](https://github.com/armory3d/armorpaint)** [![GitHub Stars](https://img.shields.io/github/stars/armory3d/armorpaint?style=social&color=white)](https://github.com/armory3d/armorpaint/stargazers)  
+3. **[Material Maker](https://github.com/RodZill4/material-maker)** [![GitHub Stars](https://img.shields.io/github/stars/RodZill4/material-maker?style=social&color=white)](https://github.com/RodZill4/material-maker/stargazers) 🧬  
+   **Node-based procedural PBR texture generator and 3D model painter based on Godot Engine.**  
+   Material Maker combines the procedural node-graph power of Substance Designer with Substance Painter's direct 3D mesh brush painting. Author complex procedural patterns and paint directly onto multi-material 3D meshes using layers, masks, and custom brush shaders.  
+   - **Key Features**: Procedural graph authoring, 3D painting viewport with layer stack, Godot/Unity/Unreal export presets.
 
-  **The leading open-source PBR texture painting suite.** Paint physically based materials directly onto 3D meshes with **layer and mask support**, a **GPU-accelerated texture baker** for extracting geometry data from high-poly models, and a **node-based material editor** for procedural textures . **Pricing**: the App Store version is **$17.99** (one-time) ; the source code remains open and buildable. **Strengths**: closest open-source equivalent to Substance Painter's layer-stack workflow; supports PBR map generation and baking. Best for artists wanting a dedicated texture painting tool without subscription fees.
+4. **[ArmorPaint](https://github.com/armory3d/armorpaint)** [![GitHub Stars](https://img.shields.io/github/stars/armory3d/armorpaint?style=social&color=white)](https://github.com/armory3d/armorpaint/stargazers) 🛡️  
+   **Dedicated stand-alone PBR texture painting software with GPU acceleration.**  
+   Written in C and DScript, ArmorPaint provides a fast, ray-traced, node-based 3D painting workflow. Features high-resolution layer stacks, mask workflows, procedural materials, and a built-in GPU texture baker for ambient occlusion, curvature, normal, and height extraction.  
+   - **Key Features**: Real-time PBR viewport, GPU map baking, node-based smart materials, iPad/Android touch support.
 
+5. **[Materialize](https://github.com/BoundingBoxSoftware/Materialize)** [![GitHub Stars](https://img.shields.io/github/stars/BoundingBoxSoftware/Materialize?style=social&color=white)](https://github.com/BoundingBoxSoftware/Materialize/stargazers) 🧱  
+   **Standalone tool for converting 2D photographs into full PBR material map sets.**  
+   Built with Unity, Materialize allows artists to generate diffuse, height, normal, metallic, smoothness, and ambient occlusion maps from a single input photograph, with interactive previewing on custom 3D meshes.  
+   - **Key Features**: Rapid photo-to-PBR map generation, seamless edge tiling generation, real-time material preview.
 
+6. **[AwesomeBump](https://github.com/kmkolasinski/AwesomeBump)** [![GitHub Stars](https://img.shields.io/github/stars/kmkolasinski/AwesomeBump?style=social&color=white)](https://github.com/kmkolasinski/AwesomeBump/stargazers) ⚡  
+   **GPU-accelerated open-source alternative to CrazyBump and InsaneBump.**  
+   An image-to-PBR converter developed with Qt and OpenGL. Generates normal, depth/height, specular, ambient occlusion, and roughness maps with fast real-time GPU computation and 3D preview tessellation.  
+   - **Key Features**: GPU processing, normal map orientation fine-tuning, 3D mesh preview with parallax occlusion mapping.
 
-- **[Material Maker](https://github.com/RodZill4/material-maker)** [![GitHub Stars](https://img.shields.io/github/stars/RodZill4/material-maker?style=social&color=white)](https://github.com/RodZill4/material-maker/stargazers)  
+7. **[InkPainter](https://github.com/EsProgram/InkPainter)** [![GitHub Stars](https://img.shields.io/github/stars/EsProgram/InkPainter?style=social&color=white)](https://github.com/EsProgram/InkPainter/stargazers) 🖋️  
+   **Runtime and editor-time texture painting engine for Unity 3D.**  
+   Allows developers to paint directly onto skinned meshes, static colliders, and objects in real time using shader-based texture blitting. Widely utilized for dynamic splatting, character damage decals, and in-game brush interactions.  
+   - **Key Features**: Unity shader-based canvas painting, support for height and normal deformation, performant dynamic decals.
 
-  **The node-based procedural texture generator and 3D painter.** Built on the Godot engine, it provides a visual graph interface for authoring complex surface properties through connected functional nodes . **Key differentiator**: combines **procedural material generation** with the ability to **paint colors and materials directly onto 3D geometry**—bridging Substance Designer's node graphs and Painter's brush workflow . Exports PBR materials compatible with external DCC tools and game engines. Best for technical artists wanting a free, node-driven alternative to Substance Designer with painting capabilities.
+8. **[Paint3D](https://github.com/OpenTexture/Paint3D)** [![GitHub Stars](https://img.shields.io/github/stars/OpenTexture/Paint3D?style=social&color=white)](https://github.com/OpenTexture/Paint3D/stargazers) 🤖  
+   **Coarse-to-fine neural 3D texture synthesis using lighting-less diffusion models (CVPR 2024).**  
+   Generates high-resolution, unshaded 2K UV texture maps for arbitrary 3D geometry from text descriptions or reference images. Overcomes baked lighting artifacts by synthesizing pure albedo textures ready for game engines.  
+   - **Key Features**: Lighting-less texture diffusion, coarse-to-fine UV inpainting, multi-view consistency.
 
-
-
-- **[Blender Texture Paint](https://github.com/blender/blender)** [![GitHub Stars](https://img.shields.io/github/stars/blender/blender?style=social&color=white)](https://github.com/blender/blender/stargazers)  
-
-  **The integrated texturing workspace within the complete free 3D suite.** Blender's Texture Paint mode lets you paint directly onto models with brush tools, stencils, and symmetry—seamlessly integrated with its material node editor and UV workflow. **Strengths**: zero additional cost if you already use Blender for modeling or rendering; supports PBR texture painting through image textures and procedural nodes. **Trade-offs**: less specialized than ArmorPaint or Substance Painter for complex layer stacks and smart materials. Best for artists already in the Blender ecosystem who want texturing without leaving the application.
-
-
-
-- **[Dream Textures](https://github.com/carson-katri/dream-textures)** [![GitHub Stars](https://img.shields.io/github/stars/carson-katri/dream-textures?style=social&color=white)](https://github.com/carson-katri/dream-textures/stargazers)  
-
-  **The AI-assisted texture generation add-on for Blender.** Integrates Stable Diffusion directly into Blender's shader editor for text-to-image generation, depth projection, and node-based processing . **Use case**: generating base textures, concept art, and surface detail from text prompts, then projecting them onto 3D models using depth data. Best for artists wanting generative texture creation within their existing Blender workflow.
-
-
-
-### Additional Strong Open-Source Options
-
-
-
-- **AwesomeBump** — Generates normal, height, specular, and ambient occlusion maps from a single image using GPU acceleration . Best for converting photos into PBR map sets rather than painting.
-
-- **Materialize** — Standalone tool for creating PBR materials from images . Best for image-to-material conversion, complementing painting workflows.
-
-
-
-## How to Contribute
-
-
-
-1. Fork the repo.
-
-2. Add/edit entries in `README.md` (follow existing format).
-
-3. Include: name, link, 1–2 sentence description, and whether it's SaaS or open-source.
-
-4. Submit PR with a short explanation.
-
-
-
-Star the repo if you find it useful!
-
-
-
-## Disclaimer
-
-
-
-- This is a **community-curated** list — not exhaustive and not an endorsement.
-
-- **ArmorPaint is the closest open-source equivalent to Substance Painter**: it offers PBR painting, layer stacks, GPU baking, and node-based materials . The App Store version is $17.99 one-time , while the source remains open.
-
-- **Quixel Mixer is discontinued**: the final offline version (with 800+ free assets) is available but receives no updates or support . Do not select for new projects requiring active development.
-
-- **Mari's free tier is non-commercial only**: limited to 4K/16-bit exports and six UV tiles per object—insufficient for most production work .
-
-- **Adobe Substance pricing is promotional**: the $23.99/mo figure is a temporary discount from $59.99/mo; verify current pricing before budgeting .
-
-
+9. **[Diffusion Texture Painting](https://github.com/nv-tlabs/DiffusionTexturePainting)** [![GitHub Stars](https://img.shields.io/github/stars/nv-tlabs/DiffusionTexturePainting?style=social&color=white)](https://github.com/nv-tlabs/DiffusionTexturePainting/stargazers) 🔬  
+   **Interactive direct 3D surface painting powered by 2D diffusion models (SIGGRAPH 2024 / NVIDIA Research).**  
+   Enables interactive localized texture painting onto 3D surfaces with generative priors. Artists brush over arbitrary regions on a 3D mesh to synthesize coherent texture details seamlessly blended with surrounding geometry.  
+   - **Key Features**: Interactive brush-driven diffusion, seamless UV-space blending, view-conditioned generative texturing.
 
 ---
 
+## 🤝 How to Contribute
 
+Contributions are warmly welcomed! Help keep this 3D texturing ecosystem updated:
 
-**Made for 3D artists, game developers, and technical artists building PBR texturing pipelines.**  
+1. 🍴 **Fork** this repository.
+2. 🌿 **Create a new branch**: `git checkout -b feature/add-new-tool`.
+3. ✏️ **Add or edit entries** in `README.md` following the established table and star badge formatting.
+4. 🔗 Ensure all URLs, GitHub repositories, and pricing details are verified.
+5. 🚀 **Submit a Pull Request** with a brief summary of the added tool.
 
-Let's make 3D texture painting more open, layer-aware, and accessible.
+---
+
+## 💖 Support & Sponsorship
+
+If you find this curated collection useful for your 3D pipeline, game development studio, or research workflow, please consider supporting this project! ✨
+
+- ⭐ **Star this repository** to improve discoverability for fellow 3D artists and developers.
+- 🍴 **Fork and share** with your creative team, game jam peers, or graphics community.
+- ☕ **Buy me a coffee / Sponsor**: Support ongoing maintenance, research, and curation through the **[GitHub Sponsors Dashboard](https://github.com/sponsors/ishandutta2007)**. Every sponsorship helps keep open-source resource lists active and high quality! 💖
+
+---
+
+## 📈 Star History
+
+[![Star History Chart](https://star-history.dera.page/svg?repos=ishandutta2007/Awesome-3D-Texture-Painting-Software&type=date&legend=top-left)](https://star-history.dera.page/#ishandutta2007/Awesome-3D-Texture-Painting-Software&type=date&legend=top-left)
+
+---
+
+## ⚠️ Disclaimer
+
+- This is a **community-curated directory** provided for educational and informational purposes; inclusion does not imply official endorsement.
+- **ArmorPaint** offers a full open-source codebase for self-compilation, while convenient precompiled binaries are available on its store.
+- **Quixel Mixer** has been transitioned to maintenance/offline status following Epic Games ecosystem realignments; verify compatibility before relying on it for new pipelines.
+- **Mari Non-Commercial Edition** is strictly capped at 4K resolution, 16-bit color, and 6 UDIM patches per object.
+- **Adobe Substance 3D** pricing regularly fluctuates with promotional discounts and bundle packages; consult official vendor portals for current studio enterprise billing.
+
+---
+
+<p align="center">
+  <b>Crafted with ❤️ for 3D artists, technical directors, and graphics developers.</b><br/>
+  <sub>Let's make 3D texture painting, layered PBR workflows, and digital content creation accessible to everyone.</sub>
+</p>
