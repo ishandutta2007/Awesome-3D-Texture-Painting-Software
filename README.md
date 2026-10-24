@@ -30,6 +30,8 @@ Contributions welcome! Open a PR to add/update entries. Keep descriptions factua
 
 ## Table of Contents
 
+- [Sector Overview & Market Dynamics](#sector-overview--market-dynamics)
+
 - [SaaS/Hosted Platforms](#saas-hosted-platforms)
 
 - [Open-Source GitHub Projects](#open-source-github-projects)
@@ -40,23 +42,23 @@ Contributions welcome! Open a PR to add/update entries. Keep descriptions factua
 
 
 
+## Sector Overview & Market Dynamics
+
+The dedicated 3D texture painting and surface authoring software sector is estimated at **$250 million to $500 million** (nested within the broader **$30B+ digital content creation market**, expanding at ~10–12% CAGR driven by gaming, VFX, and real-time 3D pipelines). Market dynamics are **highly concentrated and near 'winner-take-all'**, where Adobe (Substance 3D Painter) commands near-ubiquitous industry-standard status for PBR texturing across games and general 3D, complemented by Foundry Mari in high-end VFX film pipelines and Autodesk/Maxon in adjacent sculpting and modeling suites, leaving independent studios to compete on perpetual licensing and niche performance.
+
+
+
 ## SaaS/Hosted Platforms
 
 
 
-| Product | Description | Pricing | Free Tier Limit |
-
-| :--- | :--- | :--- | :--- |
-
-| **[Adobe Substance 3D Painter](https://www.adobe.com/products/substance3d/apps/painter.html)** | Industry-standard PBR texture painting with smart materials, smart masks, and particle brushes. | **Substance 3D Collection**: **US$23.99/mo** (promotional, was $59.99/mo) for individuals; **US$119.99/mo** per license for teams . | **30-day free trial** of all five desktop apps . No permanent free tier. |
-
-| **[Mari (Foundry)](https://www.foundry.com/products/mari)** | High-end texture painting for VFX and film, handling massive texture counts and UDIM workflows. | **Individual Subscription**: **$689/year** or **$86/month** . Studio licenses higher. | **Non-commercial version** available (limited to 4K/16-bit exports and six UV tiles per object) . |
-
-| **[3D-Coat](https://3dcoat.com/)** | Sculpting, retopology, and texture painting suite with a one-time purchase model. | **€379** node-locked perpetual license (VAT excluded), includes 12 months of free updates . | No free tier. One-time purchase with optional paid updates after year one. |
-
-| **[ZBrush (Maxon)](https://www.maxon.net/en/zbrush)** | Sculpting suite with **Polypaint** for vertex-color painting directly on high-poly meshes. | **$399/year** per license (or $33.25/month) . | No permanent free tier. Includes ZBrush on iPad with premium features . |
-
-| **[Mudbox (Autodesk)](https://www.autodesk.com/products/mudbox/)** | Digital sculpting and texture painting tool for detailed characters. | **$10/month** or **$100/year** (rental-only) . | No permanent free tier. Trial available via Autodesk. |
+| Product | Company Scale (Valuation / Revenue) | Description | Pricing | Free Tier Limit |
+| :--- | :--- | :--- | :--- | :--- |
+| **[Adobe Substance 3D Painter](https://www.adobe.com/products/substance3d/apps/painter.html)** | **~$95B – $100B Market Cap** (~$21B+ annual revenue) | Industry-standard PBR texture painting with smart materials, smart masks, and particle brushes. | **US$23.99/mo** (promotional individual plan) or **US$24.99/mo** standalone texturing / **US$119.99/mo** per license for teams; Steam one-time purchase at **$199.99**. | **30-day free trial** with full functionality across desktop apps; no permanent free tier. |
+| **[Mudbox (Autodesk)](https://www.autodesk.com/products/mudbox/)** | **~$50B – $54B Market Cap** (~$5.5B+ annual revenue) | Digital sculpting and texture painting tool for detailed characters. | **$10/month** or **$100/year** (subscription-based). | **30-day free trial** for evaluation only (no commercial use allowed); verified educators/students receive 1-year renewable academic access. |
+| **[ZBrush (Maxon)](https://www.maxon.net/en/zbrush)** | **~$9.5B Parent Market Cap** (Nemetschek SE; Maxon revenue ~$65M–$70M/yr) | Sculpting suite with **Polypaint** for vertex-color painting directly on high-poly meshes. | **$33.25/month** billed annually ($399/year) or **$49/month** billed monthly. | **14-day free trial** of Maxon One/ZBrush (single user/device, non-extendable); separate permanent free iPad basic version capped at 28 brushes. |
+| **[Mari (Foundry)](https://www.foundry.com/products/mari)** | **~$85M Annual Revenue** (Private equity-backed studio tooling) | High-end texture painting for VFX and film, handling massive texture counts and UDIM workflows. | **$86/month** or **$689/year** for individual subscription; studio enterprise licenses higher. | **Permanent Non-Commercial Free Edition** (strictly non-commercial, export capped at 4K resolution, 16-bit color, and maximum 6 UV tiles/UDIM patches per object). |
+| **[3D-Coat](https://3dcoat.com/)** | **Bootstrapped / Private Studio** (Pilgway, estimated <$10M revenue) | Sculpting, retopology, and texture painting suite with a one-time purchase model. | **€20.80/month** subscription, **€41.60/month** rent-to-own (11 months), or **€379** permanent license. | **30-day free trial** with full features; transitions to permanent **Free Learning Mode** capped at 20 sculpt objects, 10 layers, 512x512 texture exports (or watermarked higher res), and non-commercial use only. |
 
 
 
