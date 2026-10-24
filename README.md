@@ -7,7 +7,7 @@
 <p align="center">
   <a href="https://github.com/ishandutta2007/Awesome-Awesome-Awesome"><img src="https://img.shields.io/badge/Awesome-%E2%9C%94-blueviolet?style=flat-square&logo=github" alt="Awesome"/></a>
   <a href="https://discord.gg/jc4xtF58Ve"><img src="https://img.shields.io/badge/Discord-5865F2?style=for-the-badge&logo=discord&logoColor=white" alt="Discord" /></a>
-  <a href="https://github.com/ishandutta2007/Awesome-3D-Texture-Painting-Software/stargazers"><img src="https://img.shields.io/github/stars/ishandutta2007/Awesome-3D-Texture-Painting-Software?style=social" alt="GitHub Stars" /></a>
+  <a href="https://github.com/ishandutta2007/Awesome-3D-Texture-Painting-Software/stargazers"><img src="https://img.shields.io/github/stars/ishandutta2007/Awesome-3D-Texture-Painting-Software?style=social" alt="GitHub_Stars" /></a>
   <a href="https://github.com/ishandutta2007/Awesome-3D-Texture-Painting-Software/network/members"><img src="https://img.shields.io/github/forks/ishandutta2007/Awesome-3D-Texture-Painting-Software?style=social" alt="GitHub Forks" /></a>
   <a href="https://github.com/ishandutta2007/Awesome-3D-Texture-Painting-Software/issues"><img src="https://img.shields.io/github/issues/ishandutta2007/Awesome-3D-Texture-Painting-Software?style=flat-square&color=blue" alt="GitHub Issues" /></a>
   <a href="https://github.com/ishandutta2007/Awesome-3D-Texture-Painting-Software/blob/main/LICENSE"><img src="https://img.shields.io/github/license/ishandutta2007/Awesome-3D-Texture-Painting-Software?style=flat-square&color=green" alt="License" /></a>
@@ -62,47 +62,47 @@ The dedicated 3D texture painting and surface authoring software sector is estim
 
 Curated open-source 3D texturing engines, procedural material generators, and neural texture projection tools, sorted descending by GitHub star popularity:
 
-1. **[Blender](https://github.com/blender/blender)** [![GitHub Stars](https://img.shields.io/github/stars/blender/blender?style=social&color=white)](https://github.com/blender/blender/stargazers) 🎨  
+1. **[Blender](https://github.com/blender/blender)** [![GitHub_Stars](https://img.shields.io/github/stars/blender/blender?style=social&color=white)](https://github.com/blender/blender/stargazers) 🎨  
    **The comprehensive open-source 3D creation suite with native Texture Painting.**  
    Blender features a complete Texture Paint workspace letting artists paint color, roughness, bump, and normal passes directly onto 3D models with customizable brushes, stencils, symmetry, and projection mapping. Seamlessly integrates with EEVEE/Cycles shaders, UV unwrapping, and geometry node pipelines.  
    - **Key Features**: Direct 3D mesh brush projection, clone and stencil brushes, layer-friendly shader node tree, zero licensing cost.
 
-2. **[Dream Textures](https://github.com/carson-katri/dream-textures)** [![GitHub Stars](https://img.shields.io/github/stars/carson-katri/dream-textures?style=social&color=white)](https://github.com/carson-katri/dream-textures/stargazers) 🪄  
+2. **[Dream Textures](https://github.com/carson-katri/dream-textures)** [![GitHub_Stars](https://img.shields.io/github/stars/carson-katri/dream-textures?style=social&color=white)](https://github.com/carson-katri/dream-textures/stargazers) 🪄  
    **AI-assisted texture generation add-on for Blender powered by Stable Diffusion.**  
    Integrates diffusion models directly within Blender's shader editor and 3D viewport. Allows artists to generate seamless tiling PBR maps, project textures with depth-awareness, and inpaint mesh regions using natural language prompts.  
    - **Key Features**: Text-to-texture, depth-to-image projection, seamless PBR texture synthesis, interactive inpainting.
 
-3. **[Material Maker](https://github.com/RodZill4/material-maker)** [![GitHub Stars](https://img.shields.io/github/stars/RodZill4/material-maker?style=social&color=white)](https://github.com/RodZill4/material-maker/stargazers) 🧬  
+3. **[Material Maker](https://github.com/RodZill4/material-maker)** [![GitHub_Stars](https://img.shields.io/github/stars/RodZill4/material-maker?style=social&color=white)](https://github.com/RodZill4/material-maker/stargazers) 🧬  
    **Node-based procedural PBR texture generator and 3D model painter based on Godot Engine.**  
    Material Maker combines the procedural node-graph power of Substance Designer with Substance Painter's direct 3D mesh brush painting. Author complex procedural patterns and paint directly onto multi-material 3D meshes using layers, masks, and custom brush shaders.  
    - **Key Features**: Procedural graph authoring, 3D painting viewport with layer stack, Godot/Unity/Unreal export presets.
 
-4. **[ArmorPaint](https://github.com/armory3d/armorpaint)** [![GitHub Stars](https://img.shields.io/github/stars/armory3d/armorpaint?style=social&color=white)](https://github.com/armory3d/armorpaint/stargazers) 🛡️  
+4. **[ArmorPaint](https://github.com/armory3d/armorpaint)** [![GitHub_Stars](https://img.shields.io/github/stars/armory3d/armorpaint?style=social&color=white)](https://github.com/armory3d/armorpaint/stargazers) 🛡️  
    **Dedicated stand-alone PBR texture painting software with GPU acceleration.**  
    Written in C and DScript, ArmorPaint provides a fast, ray-traced, node-based 3D painting workflow. Features high-resolution layer stacks, mask workflows, procedural materials, and a built-in GPU texture baker for ambient occlusion, curvature, normal, and height extraction.  
    - **Key Features**: Real-time PBR viewport, GPU map baking, node-based smart materials, iPad/Android touch support.
 
-5. **[Materialize](https://github.com/BoundingBoxSoftware/Materialize)** [![GitHub Stars](https://img.shields.io/github/stars/BoundingBoxSoftware/Materialize?style=social&color=white)](https://github.com/BoundingBoxSoftware/Materialize/stargazers) 🧱  
+5. **[Materialize](https://github.com/BoundingBoxSoftware/Materialize)** [![GitHub_Stars](https://img.shields.io/github/stars/BoundingBoxSoftware/Materialize?style=social&color=white)](https://github.com/BoundingBoxSoftware/Materialize/stargazers) 🧱  
    **Standalone tool for converting 2D photographs into full PBR material map sets.**  
    Built with Unity, Materialize allows artists to generate diffuse, height, normal, metallic, smoothness, and ambient occlusion maps from a single input photograph, with interactive previewing on custom 3D meshes.  
    - **Key Features**: Rapid photo-to-PBR map generation, seamless edge tiling generation, real-time material preview.
 
-6. **[AwesomeBump](https://github.com/kmkolasinski/AwesomeBump)** [![GitHub Stars](https://img.shields.io/github/stars/kmkolasinski/AwesomeBump?style=social&color=white)](https://github.com/kmkolasinski/AwesomeBump/stargazers) ⚡  
+6. **[AwesomeBump](https://github.com/kmkolasinski/AwesomeBump)** [![GitHub_Stars](https://img.shields.io/github/stars/kmkolasinski/AwesomeBump?style=social&color=white)](https://github.com/kmkolasinski/AwesomeBump/stargazers) ⚡  
    **GPU-accelerated open-source alternative to CrazyBump and InsaneBump.**  
    An image-to-PBR converter developed with Qt and OpenGL. Generates normal, depth/height, specular, ambient occlusion, and roughness maps with fast real-time GPU computation and 3D preview tessellation.  
    - **Key Features**: GPU processing, normal map orientation fine-tuning, 3D mesh preview with parallax occlusion mapping.
 
-7. **[InkPainter](https://github.com/EsProgram/InkPainter)** [![GitHub Stars](https://img.shields.io/github/stars/EsProgram/InkPainter?style=social&color=white)](https://github.com/EsProgram/InkPainter/stargazers) 🖋️  
+7. **[InkPainter](https://github.com/EsProgram/InkPainter)** [![GitHub_Stars](https://img.shields.io/github/stars/EsProgram/InkPainter?style=social&color=white)](https://github.com/EsProgram/InkPainter/stargazers) 🖋️  
    **Runtime and editor-time texture painting engine for Unity 3D.**  
    Allows developers to paint directly onto skinned meshes, static colliders, and objects in real time using shader-based texture blitting. Widely utilized for dynamic splatting, character damage decals, and in-game brush interactions.  
    - **Key Features**: Unity shader-based canvas painting, support for height and normal deformation, performant dynamic decals.
 
-8. **[Paint3D](https://github.com/OpenTexture/Paint3D)** [![GitHub Stars](https://img.shields.io/github/stars/OpenTexture/Paint3D?style=social&color=white)](https://github.com/OpenTexture/Paint3D/stargazers) 🤖  
+8. **[Paint3D](https://github.com/OpenTexture/Paint3D)** [![GitHub_Stars](https://img.shields.io/github/stars/OpenTexture/Paint3D?style=social&color=white)](https://github.com/OpenTexture/Paint3D/stargazers) 🤖  
    **Coarse-to-fine neural 3D texture synthesis using lighting-less diffusion models (CVPR 2024).**  
    Generates high-resolution, unshaded 2K UV texture maps for arbitrary 3D geometry from text descriptions or reference images. Overcomes baked lighting artifacts by synthesizing pure albedo textures ready for game engines.  
    - **Key Features**: Lighting-less texture diffusion, coarse-to-fine UV inpainting, multi-view consistency.
 
-9. **[Diffusion Texture Painting](https://github.com/nv-tlabs/DiffusionTexturePainting)** [![GitHub Stars](https://img.shields.io/github/stars/nv-tlabs/DiffusionTexturePainting?style=social&color=white)](https://github.com/nv-tlabs/DiffusionTexturePainting/stargazers) 🔬  
+9. **[Diffusion Texture Painting](https://github.com/nv-tlabs/DiffusionTexturePainting)** [![GitHub_Stars](https://img.shields.io/github/stars/nv-tlabs/DiffusionTexturePainting?style=social&color=white)](https://github.com/nv-tlabs/DiffusionTexturePainting/stargazers) 🔬  
    **Interactive direct 3D surface painting powered by 2D diffusion models (SIGGRAPH 2024 / NVIDIA Research).**  
    Enables interactive localized texture painting onto 3D surfaces with generative priors. Artists brush over arbitrary regions on a 3D mesh to synthesize coherent texture details seamlessly blended with surrounding geometry.  
    - **Key Features**: Interactive brush-driven diffusion, seamless UV-space blending, view-conditioned generative texturing.
@@ -115,7 +115,7 @@ Contributions are warmly welcomed! Help keep this 3D texturing ecosystem updated
 
 1. 🍴 **Fork** this repository.
 2. 🌿 **Create a new branch**: `git checkout -b feature/add-new-tool`.
-3. ✏️ **Add or edit entries** in `README.md` following the established table and star badge formatting.
+3. ✏️ **Add or edit entries** in `README.md` following the established table and Stars_Badge formatting.
 4. 🔗 Ensure all URLs, GitHub repositories, and pricing details are verified.
 5. 🚀 **Submit a Pull Request** with a brief summary of the added tool.
 
